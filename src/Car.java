@@ -13,6 +13,9 @@ public class Car {
 class CarDetailes {
     public static void main(String[] args) {
         Car c1 = new Car();
-        
+        c1.model = "Tata Tigor";
+        c1.yearofLaunch = 2019;
+        c1.goodCondition = true;
+        c1.startCar();
     }
 }
