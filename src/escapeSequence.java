@@ -4,11 +4,11 @@ public class escapeSequence {
     // System.out.println("Hello Welcome to Raj Shah \"Do you understand\" ");
     // System.out.println("Hello \'How are you doing?");  
     
-System.out.println("\t*");
-	System.out.println("\t**");
-	System.out.println("\t***");
-	System.out.println("\t**");
-	System.out.println("\t*");
+        System.out.println("  *");
+        System.out.println(" **");
+        System.out.println("***");
+        System.out.println(" **");
+        System.out.println("  *");
 
 }
 }
