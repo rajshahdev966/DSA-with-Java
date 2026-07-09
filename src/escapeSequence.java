@@ -3,9 +3,9 @@ public class escapeSequence {
     // System.out.println("Hello Welcome to Raj Shah \nDo you understand ");
     // System.out.println("Hello Welcome to Raj Shah \"Do you understand\" ");
     // System.out.println("Hello \'How are you doing?");  
-    float inch = 61.8f;
-    
-
+    double inch = 61.8f;
+    double foot = inch*0.0833;
+    System.out.println(foot);
 
 }
 }
