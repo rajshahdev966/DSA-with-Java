@@ -8,5 +8,9 @@ public class ScannerPractice {
         boolean x = scanner.nextBoolean();
         System.out.println(x);
         scanner.close();
+
+        void areaOfRectangle {
+
+        }
     }
 }
