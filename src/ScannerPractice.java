@@ -5,7 +5,7 @@ public class ScannerPractice {
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("What is your age?");
-        float x = scanner.nextFloat();
+        boolean x = scanner.nextBoolean();
         System.out.println(x);
         scanner.close();
     }
