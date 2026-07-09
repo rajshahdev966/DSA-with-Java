@@ -7,5 +7,6 @@ public class ScannerPractice {
         System.out.println("What is your age?");
         float x = scanner.nextFloat();
         System.out.println(x);
+        scanner.close();
     }
 }
