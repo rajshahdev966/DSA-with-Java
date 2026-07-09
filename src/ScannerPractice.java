@@ -38,8 +38,9 @@ public class ScannerPractice {
     }
 
     public static void main(String[] args) {
-        // areraOfRectangle();
-        // areraOfTriangle();
+        areraOfRectangle();
+        areraOfTriangle();
+        simpleIntrest();
 
     }
 }
